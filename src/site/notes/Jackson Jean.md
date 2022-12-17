@@ -3,5 +3,5 @@
 ---
 
 
-test
-should work
+This is a site created by Jackson Jean using Obsidian's Digital Garden plugin.
+With Netlify and Github.
