@@ -7,3 +7,6 @@ My methods of effectively managing the information I received and consumed every
 - The P.A.R.A. method by [[Tiago Forte\|Tiago Forte]]
 - The C.O.D.E. method by [[Tiago Forte\|Tiago Forte]]
 - [[How to take smart notes?\|How to take smart notes?]] by [[Sönke Ahrens\|Sönke Ahrens]]
+
+### Apps and tools
+- [[Obsidian\|Obsidian]]
