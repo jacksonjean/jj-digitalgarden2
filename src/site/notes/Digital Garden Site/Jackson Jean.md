@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/digital-garden-site/jackson-jean/","tags":"gardenEntry","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/digital-garden-site/jackson-jean/","dgPassFrontmatter":true}
 ---
 
 Product Manager
