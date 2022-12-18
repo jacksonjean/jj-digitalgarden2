@@ -19,4 +19,4 @@
 | [[thejacksonjean site/Blogs/如何更方便地使用 ChatGPT?\|如何更方便地使用 ChatGPT?]] |[[Journal/2022-12-10\|2022-12-10]]|
 
 
-Follow me on [Twitter](https://twitter.com/jacksonjean) or [Instagram](https://instagram.com/jacksonjean).
+Follow me on [Twitter](https://twitter.com/jacksonjean188) or [Instagram](https://instagram.com/jacksonjean).
